@@ -1,0 +1,41 @@
+{
+  "name": "ss-sass",
+  "version": "0.0.1",
+  "homepage": "https://symbolset.com",
+  "description": "Symbolset Sass is a library of Sass placeholder selectors that allow you to use Symbolset without having to follow the markup conventions it comes with.",
+  "main": [
+    "_symbolset.scss",
+    "_ss-pika.scss",
+    "_ss-social-circle.scss",
+    "_ss-social-regular.scss",
+    "_ss-standard.scss",
+    "_ss-symbolicons-block.scss",
+    "_ss-symbolicons-line.scss"
+  ],
+  "styles": [
+    "_symbolset.scss",
+    "_ss-pika.scss",
+    "_ss-social-circle.scss",
+    "_ss-social-regular.scss",
+    "_ss-standard.scss",
+    "_ss-symbolicons-block.scss",
+    "_ss-symbolicons-line.scss"
+  ],
+  "keywords": [
+    "symbolset",
+    "ss-pika",
+    "ss-social-circle",
+    "ss-social-regular",
+    "ss-standard",
+    "ss-symbolicons-block",
+    "ss-symbolicons-line"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
